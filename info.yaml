@@ -1,0 +1,8 @@
+name: RoboFontProfile
+developer: Frederik Berlaen
+developerURL: http://typemytype.com
+launchAtStartUp: true
+mainScript: main.py
+version: '1.1'
+addToMenu: []
+html: true
